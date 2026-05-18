@@ -239,6 +239,9 @@ com.qualcomm.wfd.service
 org.codeaurora.internal
 qcom.fmradio
 
+# Xiaomi adds
+com\.xiaomi\..*
+
 ###################################################
 # Packages used for wear-sdk in Wear OS
 com\.google\.wear
