@@ -247,3 +247,8 @@ org\.ifaa\.android\.manager.*
 
 # Lineage HALs
 vendor\.lineage\..*
+
+# Sun HALs
+org\.sun\.os
+org\.sun\.provider
+vendor\.sun\.hardware\.vibratorExt
